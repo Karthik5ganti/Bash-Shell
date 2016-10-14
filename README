@@ -1,0 +1,33 @@
+Instructions of running makefile:
+
+make all
+which generates an executable kernel
+execute it by command "./kernel"
+
+Note for "cd" command:
+cd takes home directory as the present file executing directory
+
+echo:
+echo takes flags and also env variables
+
+pipe1:
+pipe function take care of piping 
+redirection is also taken care 
+
+
+redirect:
+takes care of redirecting
+
+pinfo:
+pinfo takes care of pinfo 
+
+kernel:
+main file
+
+
+NOTE:
+------------
+
+piping and redirection needs space seperation between commands 
+every command needs space seperation between them
+this is version 1 
